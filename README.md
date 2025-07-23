@@ -118,7 +118,7 @@ In a cell below this one, use Markdown to tell us a little bit about yourself. S
 **10-03-2002**
 
 ### Major
-**Physiology** I majored in Physiology at the university of Ibadan (Nigeria).
+**Physiology.** I majored in Physiology at the university of Ibadan (Nigeria).
 
 ### Why I enrolled in this course?
 **I enrollled in this course to gain an indept understanding of how data science can be leveraged in solving neuroscientific challenges**
