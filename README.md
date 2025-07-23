@@ -109,6 +109,30 @@ In a cell below this one, use Markdown to tell us a little bit about yourself. S
 - what got you interested in neuroscience /or psychology
 - what your career plans are (or post-graduation plans, if you haven't figured that out yet!)
 
+## BRIEF INTRODUCTION
+
+### :wave: Name
+**KILANKO FOLAHAN JOSEPH**
+
+### Date of birth
+**10-03-2002**
+
+### Major
+**Physiology** I majored in Physiology at the university of Ibadan (Nigeria).
+
+### Why I enrolled in this course?
+**I enrollled in this course to gain an indept understanding of how data science can be leveraged in solving neuroscientific challenges**
+
+### What got me interested in neuroscience or psychology?
+**Hmm where do i start?** As a student who majored in physiology, neuro-physiology has always been a very interesting field for me. This was quite evident in my grades, as i aced all neuro-physiology courses I took during my undergrad. There was a time I had a really high record score in one of my neuro-physiology exams and my professor had to come look for the student who pulled the fit (Yes it was me :smile:). I figured that I needed to pursue this line of research as it is something i love and really have passion for. In my little quest for more knowledge, I discovered researchers all aroud the world leverage data science in solving pressing world problems. I stumbled on this free course compiled by Professor Aaron J Newman for Dalhousie university's department of psychology and Neuroscience and i've been glued to the course materials since discovery, cause it's pretty detailed and solid. Thank you Prof Newman.
+
+## What my career plans are?
+### Short term plan
+I plan to get graduate assistanship to pursue a master's degree in neuroscience at an elite university abroad.
+
+### Long term plan
+I plan to get graduate assistanship to pursue a doctorate in an elite neuroscience program abroad and specifically carry out research on novel drugs to cure parkinson's disease using the drosophilia melanogaster model as i've had prior research experience with them during my undergrad program in Nigeria.
+
 Impress us with your newfound command of the Markdown language. Use headings above your answers for each question, and maybe throw in some bold or italic text, a list, or something else.
 
 How long should your answers be? Think of it this way: we're asking because we want to get to know you a little, and so that you can demonstrate some facility with Markdown. So you need to produce enough content to meet those goals. But, we have 20 of these to read, and other things to do with our lives. So try to keep it to a length that we'll find interesting and not boring. 
